@@ -71,7 +71,6 @@ public class Pokemon {
         this.defenseLevel = 0;
         this.name = "";
     }
-
     /**
      * Attack another Pokemon.
      * <p>
